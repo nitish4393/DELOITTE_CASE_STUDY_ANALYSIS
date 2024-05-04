@@ -5,6 +5,7 @@
 # Title - Deloitte Case Study Project 📊🔍
 
 LIVE DASHBOARD :-[PowerBI_Report](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZDI5ZjYtMmI3My00ZjEwLTgxNDAtYzAxMDRjMDgwOWI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+YouTube :- [video](https://youtu.be/9PRzlDK2pYU?si=OpktIXM1z5eT2dZh)
 
 I'm thrilled to announce that i have recently completed my Ineuron intership project on Deloitte Case Study! 🎉🤝 A comprehensive dataset containing data from 1989 - 2018.
 
